@@ -26,7 +26,6 @@ IIT regularly receives hardware donations from various supporters, but many arri
   * RAM capacity
   * RAID controller identification and model
 
-> **Image Reference:** *Active hardware diagnostics and thermal troubleshooting.*  
 > ![Active hardware diagnostics]<img width="2880" height="2160" alt="download" src="https://github.com/user-attachments/assets/554f9fdd-9d05-4061-8574-ae884100c1f8" />
 
 
@@ -38,7 +37,12 @@ Working alongside a fellow intern, I gained practical experience in enterprise n
 * **Infrastructure Exposure:** Observed and assisted with physical network cabling, switch deployment methodologies, and core data center concepts relating to virtualization and Infrastructure as a Service (IaaS).
 
 > **Image References:** *Installing the network switch and reviewing operational network setups.*  
-> ![Installing switch](assets/Pasted_image_20260802234145.png) | ![Network setups](assets/Pasted_image_20260802234454.png) | ![Network configuration](assets/Pasted_image_20260802234512.png)
+> ![Installing switch]<img width="613" height="733" alt="switch" src="https://github.com/user-attachments/assets/2e0214f6-968c-44d7-a6c3-6abf7dcf39b2" />
+ | ![Network setups]<img width="2160" height="2880" alt="IMG_1786" src="https://github.com/user-attachments/assets/7d6ff097-caac-4727-9294-7875ad8ef56f" />
+ | ![Network configuration]<img width="2880" height="2160" alt="IMG_1782" src="https://github.com/user-attachments/assets/4ffb03cf-5225-42fa-9163-7e88b326a4b4" />
+ | ![Internship Grand Plan]<img width="2160" height="2880" alt="IMG_1799" src="https://github.com/user-attachments/assets/91251508-79fb-419d-b62a-01a3d35e787b" />
+
+
 
 ---
 
@@ -47,8 +51,8 @@ As part of an initiative to build a fully functional server from an empty rack c
 * **Chassis Preparation:** Installed sliding rails, solved hardware compatibility challenges regarding mismatched screw types and threading, and populated the empty chassis completely.
 * **Troubleshooting Final Units:** Assigned the critical task of troubleshooting the final three top servers in the newly built rack, successfully restoring one to full operation.
 
-> **Image Reference:** *The custom server build in progress.*  
-> ![Custom server build]
+> **Image Reference:** <img width="2160" height="2880" alt="IMG_1785" src="https://github.com/user-attachments/assets/dd6d6b22-9bea-4f0a-a36a-60d7595ba3d2" />
+
 
 ---
 
@@ -56,8 +60,8 @@ As part of an initiative to build a fully functional server from an empty rack c
 * **Component Organization:** Sorted through a massive inventory of server rails, bare chassis, and hardware components. 
 * **Deep Dive into Architecture:** Gained a comprehensive understanding of enterprise server physical design, component topology, and internal architecture. Working with this heavy-duty hardware provided exceptional inspiration and practical context for my own homelab experience.
 
-> **Image Reference:** *The hardware and tool organization room.*  
-> ![Hardware organization](assets/Pasted_image_20260802234658.png)
+> ![Hardware organization]<img width="2160" height="2880" alt="IMG_1790" src="https://github.com/user-attachments/assets/c16711e4-aa57-4591-8925-7066c112a2e8" />
+
 
 ---
 
@@ -66,8 +70,7 @@ As part of an initiative to build a fully functional server from an empty rack c
 * **Cost Optimization:** Analyzed how self-hosted enterprise infrastructure significantly slashes the cost of online cloud services.
 * **Whiteboard Architecture Session:** Reviewed system topologies mapped out by senior interns and explained by Professor Jeremy, breaking down server allocation strategies (e.g., dedicated virtualization nodes vs. high-capacity data storage servers).
 
-> **Image Reference:** *Whiteboard architecture mapping for platform allocation and VM distribution.*  
-> ![Whiteboard architecture](assets/Pasted_image_20260802234834.png)
+> **Image Reference:**<img width="2160" height="2880" alt="IMG_1787" src="https://github.com/user-attachments/assets/4066b382-659e-420e-b13f-a8bdac56c279" />
 
 ---
 
@@ -76,4 +79,8 @@ As part of an initiative to build a fully functional server from an empty rack c
 * **Team Operations:** Reviewed the long-term strategic plans and operational workflows of the intern team managing the space.
 
 > **Image References:** *Inside the IoT expo and hardware demonstration room.*  
-> ![IoT room 1](assets/Pasted_image_20260802235041.png) | ![IoT room 2](assets/Pasted_image_20260802235049.png) | ![IoT room 3](assets/Pasted_image_20260802235052.png) | ![IoT room 4](assets/Pasted_image_20260802235056.png)
+> ![IoT room 1]<img width="2160" height="2880" alt="IMG_1796" src="https://github.com/user-attachments/assets/628bc672-e1a9-40dd-b5d1-f9be2f0b2c3e" />
+ | ![IoT room 2]<img width="2160" height="2880" alt="IMG_1794" src="https://github.com/user-attachments/assets/be8a557a-53df-499a-a962-f98a47625fef" />
+ | ![IoT room 3]<img width="2160" height="2880" alt="IMG_1795" src="https://github.com/user-attachments/assets/8a4e89b7-f657-40c6-9e1d-d6421ea40205" />
+ | ![IoT room 4]<img width="2160" height="2880" alt="IMG_1793" src="https://github.com/user-attachments/assets/b145be75-5fa9-4574-8be9-4278fd7fe6d4" />
+
