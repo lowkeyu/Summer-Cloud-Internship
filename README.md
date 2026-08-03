@@ -77,7 +77,6 @@ As part of an initiative to build a fully functional server from an empty rack c
 * **Showcase Facility:** Explored the dedicated Internet of Things (IoT) expo room—a high-visibility space designed for sponsors to evaluate the lab's hardware investments and research progress.
 * **Team Operations:** Reviewed the long-term strategic plans and operational workflows of the intern team managing the space.
 
-> **Image References:** *Inside the IoT expo and hardware demonstration room.*  
 > [IoT room 1]<img width="2160" height="2880" alt="IMG_1796" src="https://github.com/user-attachments/assets/628bc672-e1a9-40dd-b5d1-f9be2f0b2c3e" />
  | [IoT room 2]<img width="2160" height="2880" alt="IMG_1794" src="https://github.com/user-attachments/assets/be8a557a-53df-499a-a962-f98a47625fef" />
  | [IoT room 3]<img width="2160" height="2880" alt="IMG_1795" src="https://github.com/user-attachments/assets/8a4e89b7-f657-40c6-9e1d-d6421ea40205" />
