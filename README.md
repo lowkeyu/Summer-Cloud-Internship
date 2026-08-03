@@ -37,7 +37,7 @@ Working alongside a fellow intern, I gained practical experience in enterprise n
 * **Infrastructure Exposure:** Observed and assisted with physical network cabling, switch deployment methodologies, and core data center concepts relating to virtualization and Infrastructure as a Service (IaaS).
 
 > **Image References:** *Installing the network switch and reviewing operational network setups.*  
-> ![Installing switch]<img width="613" height="733" alt="switch" src="https://github.com/user-attachments/assets/2e0214f6-968c-44d7-a6c3-6abf7dcf39b2" />
+> <img width="613" height="733" alt="switch" src="https://github.com/user-attachments/assets/2e0214f6-968c-44d7-a6c3-6abf7dcf39b2" />
  | ![Network setups]<img width="2160" height="2880" alt="IMG_1786" src="https://github.com/user-attachments/assets/7d6ff097-caac-4727-9294-7875ad8ef56f" />
  | ![Network configuration]<img width="2880" height="2160" alt="IMG_1782" src="https://github.com/user-attachments/assets/4ffb03cf-5225-42fa-9163-7e88b326a4b4" />
  | ![Internship Grand Plan]<img width="2160" height="2880" alt="IMG_1799" src="https://github.com/user-attachments/assets/91251508-79fb-419d-b62a-01a3d35e787b" />
